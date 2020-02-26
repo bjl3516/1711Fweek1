@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.bawei.domain.Movie;
 import com.bawei.service.MovieService;
 import com.bawei.vo.MovieVo;
-
+//1710E ╦д╠Дак
 @Controller
 public class MovieController {
 	@Resource
